@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506071794269",
+    "firebase_url": "https://dictionary-voice-pro.firebaseio.com",
+    "project_id": "dictionary-voice-pro",
+    "storage_bucket": "dictionary-voice-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506071794269:android:d41c6b339e294d970c83b4",
+        "android_client_info": {
+          "package_name": "com.example.pharm_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506071794269-0raf7nak8qb634d6a25r2isg7h8v92cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBptZtetaLb2x5oj5azfRLCBlgS7wxsupA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506071794269-0raf7nak8qb634d6a25r2isg7h8v92cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
