@@ -6,7 +6,7 @@ class Contact extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         body: Padding(
-          padding: EdgeInsets.fromLTRB(50, 180, 30, 0),
+          padding: EdgeInsets.fromLTRB(50, 180, 30, 50),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
