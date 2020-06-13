@@ -29,7 +29,8 @@ dependencies:
   firebase_storage: ^3.0.3  
   path: ^1.6.4
   fluttertoast: ^4.0.1
-  multi_image_picker: ^4.6.7
+  carousel_pro: ^1.0.0
+
 
 
 

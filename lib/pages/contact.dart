@@ -6,10 +6,13 @@ class Contact extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         body: Padding(
-          padding: EdgeInsets.fromLTRB(50, 180, 30, 50),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
+          padding: EdgeInsets.fromLTRB(50, 40, 30, 0),
+          child: ListView(
             children: <Widget>[
+             Image.network('https://pharmhouse.in/img/Logo_test.png',
+             height: 200,
+             ),
+              SizedBox(height: 80),
               Text(
                 'Address :',
                 style: TextStyle(
@@ -54,7 +57,7 @@ class Contact extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
-                'pharmhouse786@gmail.com',
+                'pharmhouse99@gmail.com',
                 style: TextStyle(
                   letterSpacing: 2.0,
                   fontSize: 25.0
